@@ -13,5 +13,6 @@ set number
 set relativenumber
 set background=dark
 set mouse=a
-
+set tabstop=2
+set shiftwidth=2
 colorscheme gruvbox
